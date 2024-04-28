@@ -1,7 +1,6 @@
 ![324245408-ec38f6f6-ee78-40ba-b238-2a3504230bc2](https://github.com/Demon4u/CS2-Cheat/assets/85320553/36e4fb2d-a80f-4c6d-9d5e-54f62a518bfa)
                       An open-source, customizable modification for Counter-Strike 2, designed to enhance your gameplay.
                       
-<a href="https://github.com/Demon4u/CS2-Cheat/releases"><img src="https://img.shields.io/github/downloads/Demon4u/CS2-Cheat/total" alt="Github All Releases" style="max-width: 100%;"></a>
 <a href="https://github.com/Demon4u/CS2-Cheat/releases"><img src="https://img.shields.io/github/release/Demon4u/CS2-Cheat/all" alt="GitHub release" style="max-width: 100%;"></a>
 <a href="https://github.com/Demon4u/CS2-Cheat/releases"><img src="https://img.shields.io/github/release-date/Demon4u/CS2-Cheat" alt="GitHub Release Date" style="max-width: 100%;"></a>
 # 📋 Features:
